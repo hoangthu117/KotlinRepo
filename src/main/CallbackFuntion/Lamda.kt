@@ -9,9 +9,8 @@ fun performOperation(a: Int, b: Int,callback: (Int) -> Unit){
 fun sumWithoutLambda(result: Int) {
     println("Tổng của hai số là: $result")
 }
-//#end region: Non lamda
 
-fun main(args: Array<String>) {
+fun main() {
     //using lamda
     performOperation(2, 3) { result -> print("Tổng của hai số là: $result") }
 

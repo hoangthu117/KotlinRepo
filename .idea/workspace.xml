@@ -5,14 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7b9d168e-00ec-4d0f-a001-15f689cae380" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/CallbackFuntion/Callback.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/CallbackFuntion/CallbackFuntion.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/CallbackFuntion/Lamda.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/CallbackFuntion/MultipleCallbackkFuntion.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/TypeInference/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ExtensionFunction/MainEF.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Extensions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/TypeInference/MainTypeInference.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/KotlineRepo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/KotlineRepo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/CallbackFuntion/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/CallbackFuntion/CallbackFuntion.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/CallbackFuntion/CallbackFuntion.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/CallbackFuntion/Lamda.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/CallbackFuntion/Lamda.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/CallbackFuntion/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/CallbackFuntion/MainCallbackFuntion.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/CallbackFuntion/MultipleCallbackkFuntion.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/CallbackFuntion/MultipleCallbackkFuntion.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/TypeInference/Main.kt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,9 +50,19 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/hoang/KotlinRepo&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="typeInference" type="JetRunConfigurationType">
+      <module name="KotlineRepo" />
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

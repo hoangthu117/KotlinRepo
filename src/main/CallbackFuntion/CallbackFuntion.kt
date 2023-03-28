@@ -20,7 +20,7 @@ fun downloadData(url: String, callback: (String) -> Unit) {
 }
 
 
-fun main(args: Array<String>) {
+fun main() {
     // Sử dụng callback function
     downloadData("https://jsonplaceholder.typicode.com/todos/1") { data ->
         println("Dữ liệu tải về: $data")
