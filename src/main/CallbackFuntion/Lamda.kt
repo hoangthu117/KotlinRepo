@@ -5,7 +5,7 @@ fun performOperation(a: Int, b: Int,callback: (Int) -> Unit){
     callback(result)
 }
 
-//#region: Non lamda
+// Non lamda
 fun sumWithoutLambda(result: Int) {
     println("Tổng của hai số là: $result")
 }
